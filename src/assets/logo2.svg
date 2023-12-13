@@ -1,0 +1,23 @@
+<svg width="118" height="30" viewBox="0 0 118 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M10 80 
+           L30 20 
+           Q40 0 50 20 
+           Q60 0 70 20 
+           Q80 0 90 20 
+           Q100 0 110 20 
+           L130 80 
+           M130 20 
+           L150 80 
+           L170 20 
+           L170 80 
+           L190 20 
+           L190 80 
+           M210 80 
+           L230 20 
+           Q240 0 250 20 
+           Q260 0 270 20 
+           L290 80" 
+        stroke="white"
+        stroke-width="5" 
+        fill="transparent"/>
+</svg>
